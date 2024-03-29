@@ -1,0 +1,38 @@
+#Тут можно скпировать стили.
+### Стиль для кнопки:
+
+QPushButton {
+	color: white;
+	background-color: #093c57;
+	border-radius: 9;
+	border: 1px solid #07adba;
+
+}
+
+QPushButton:hover {
+	background-color: #1388c5;
+	border: 1px solid #057a83;
+}
+
+QPushButton:pressed {
+	background-color: #154560;
+	border: 2px solid #00ccff;
+}
+
+###Стиль для поля ввода текста (Plaine Text Edit):
+
+background-color: #FFFFFF;
+border-radius: 9;
+border: 2px solid #07adba;
+
+###Стиль для выпадающего списка (Combo Box):
+
+background-color: #FFFFFF;
+border-radius: 9;
+border: 2px solid #07adba; 
+
+###Стиль для таблицы вывода информаии Table Widget:
+
+background-color: #FFFFFF;
+border-radius: 9;
+border: 2px solid #07adba;
